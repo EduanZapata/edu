@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Mi página web</title>
+  </head>
+  <body>
+    <header>
+        <center>
+      <h1>Bienvenido a Mi Página Web</h1>
+        </center>
+    </header>
+    <nav>
+        <pre>
+         <h1>
+     <a href="#sección1">Sección 1</a>        <a href="#sección2">Sección 2</a>        <a href="#
+        </h1>
+        </pre>
+    </nav>
+    <main>
+        <center>
+      <section id="sección1">
+        <h2>Sección 1</h2>
+        <p>Contenido de la Sección 1</p>
+      </section>
+      <section id="sección2">
+        <h2>Sección 2</h2>
+        <p>Contenido de la Sección 2</p>
+      </section>
+      <section id="sección3">
+        <h2>Sección 3</h2>
+        <p>Contenido de la Sección 3</p>
+      </section>
+      </center>
+    </main>
+    <br>
+    <br>
+    <center>
+    <footer>
+      <p>Copyright &copy; 2021 - Mi Página Web</p>
+    </footer>
+    </center>
+  </body>
+</html>
